@@ -1,0 +1,13 @@
+package org.example.apimanage;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ApiManageApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}

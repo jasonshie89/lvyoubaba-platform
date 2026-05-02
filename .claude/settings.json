@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(& \"C:\\\\Users\\\\LENOVO\\\\AppData\\\\Local\\\\Microsoft\\\\WindowsApps\\\\python.exe\" --version)",
+      "PowerShell(C:\\\\Users\\\\LENOVO\\\\AppData\\\\Local\\\\Microsoft\\\\WindowsApps\\\\python.exe --version 2>&1)"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "驴友之家",
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/team/team",
+      "style": {
+        "navigationBarTitleText": "约伴同行",
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/activity/activity",
+      "style": {
+        "navigationBarTitleText": "精彩动态",
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/mine/mine",
+      "style": {
+        "navigationBarTitleText": "个人中心"
+      }
+    },
+    {
+      "path": "pages/scenicDetail/scenicDetail",
+      "style": {
+        "navigationBarTitleText": "景点详情"
+      }
+    },
+    {
+      "path": "pages/publishTeam/publishTeam",
+      "style": {
+        "navigationBarTitleText": "发布约伴"
+      }
+    },
+    {
+      "path": "pages/publishActivity/publishActivity",
+      "style": {
+        "navigationBarTitleText": "发布动态"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "驴友之家",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#f5f6f8"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#4A90D9",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/team/team",
+        "text": "约伴"
+      },
+      {
+        "pagePath": "pages/activity/activity",
+        "text": "动态"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的"
+      }
+    ]
+  }
+}
